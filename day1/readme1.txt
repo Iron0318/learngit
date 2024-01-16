@@ -1,0 +1,3 @@
+# HexapodSoftwaregit
+\gitgit
+
